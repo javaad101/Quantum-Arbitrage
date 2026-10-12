@@ -1,7 +1,13 @@
 # Quantum Asset Pricing
 
 ## Overview
-An arbitrage strategy is presented. The strategy makes use of quantum entanglement. 
+
+Set forth below is an arbitrage strategy that makes use of quantum computing. 
+
+## Hardware
+All tests were performed on IBM Quantum hardware, provided courtesy of IBM.
+
+
 
 ATTORNEY ADVERTISING.
 
